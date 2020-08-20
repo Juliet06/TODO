@@ -33,7 +33,7 @@ app.listen(port, ()=> {
 
 
 
-
+app.delete('/:id',(req, res) =>)
 
 
 
